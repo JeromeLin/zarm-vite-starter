@@ -1,2 +1,2 @@
 # zarm-vite-starter
-Starter template with Zarm component library and TypeScript
+Starter template with [Zarm](https://zarm.design) and TypeScript
