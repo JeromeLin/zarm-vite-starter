@@ -1,2 +1,2 @@
 # zarm-vite-starter
-Starter template with [Zarm](https://zarm.design) and TypeScript
+Starter template with Vite, [Zarm](https://zarm.design) and TypeScript
